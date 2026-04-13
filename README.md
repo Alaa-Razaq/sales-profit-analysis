@@ -1,5 +1,5 @@
 # 📊 Retail Sales & Profit Optimization Analysis
-# 📊 Retail Sales & Profit Optimization Analysis
+
 
 ## Table of Contents
 
@@ -91,7 +91,7 @@ The analysis focused on answering key business questions through SQL queries suc
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **High sales ≠ high profit:** Some products like Tables generate strong revenue but result in significant losses.
 
@@ -103,17 +103,21 @@ The analysis focused on answering key business questions through SQL queries suc
 
 - **Profitability threshold:** Most products remain profitable within a 0%–20% discount range.
 
+### Category Profitability Insight
+
+Despite contributing over 32% of total sales, Furniture has a very low profit margin of only 2.5%, suggesting pricing inefficiencies or high costs. In contrast, Technology combines the highest sales share (36%) with strong profit margins (17%), making it the most valuable category for growth. Office Supplies shows stable and balanced performance across both sales and profitability.
+
 ---
 
-## 💼 Business Recommendations
+## Business Recommendations
 
-- **Limit discounts:** Keep discounts below 20% to protect profit margins.
+- **Limit discounts:** Keep discounts below 20% to protect profit margins and avoid loss-making transactions.
 
-- **Fix loss-making products:** Review pricing and cost structure for Tables, Bookcases, and Supplies.
+- **Fix loss-making products:** Review pricing and cost structure for Tables, Bookcases, and Supplies, particularly within the Furniture category.
 
-- **Focus on high-profit items:** Increase promotion and sales efforts for Copiers, Phones, and Accessories.
+- **Focus on high-profit items:** Increase promotion and sales efforts for Copiers, Phones, and Accessories to maximize returns.
 
-- **Use data-driven pricing:** Apply discounts strategically based on product profitability.
+- **Use data-driven pricing:** Apply discounts strategically based on product-level profitability and margin performance.
   
 ---
 

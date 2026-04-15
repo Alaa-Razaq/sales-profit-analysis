@@ -46,21 +46,16 @@ The business wants to improve profitability by understanding:
 ---
 
 ## 📁 Dataset
-This project uses a retail sales dataset with 9,994 records and the following fields:
+Source: Adapted from a retail Superstore dataset (Kaggle)
+Description: Transactional retail dataset containing sales, profit, discount, quantity, category, sub-category, region, and customer segment information.
 
-- Ship Mode  
-- Segment  
-- Country  
-- City  
-- State  
-- Postal Code  
-- Region  
-- Category  
-- Sub-Category  
-- Sales  
-- Quantity  
-- Discount  
-- Profit  
+📌 Data Preparation:
+
+Cleaned and structured using SQL
+Removed unnecessary fields and standardized column names
+Focused on profitability and discount analysis
+
+📌 Note: The dataset used in this project is a modified and cleaned version of publicly available Superstore data.
 
 ---
 

@@ -73,16 +73,33 @@ Cleaning steps included:
 ---
 
 ## 🧠 SQL Analysis Performed
-The analysis focused on answering key business questions through SQL queries such as:
 
-- Total sales and total profit  
-- Sales and profit by category  
-- Sales and profit by sub-category  
-- Profit by region  
-- Profit by segment  
-- Loss-making sub-categories  
-- Discount impact on sales and profit  
-- Profitability patterns by sub-category and discount level  
+The analysis focused on answering key business questions such as total sales and profit, category performance, loss-making products, and the impact of discounts on profitability.
+
+## 🛠 SQL Analysis (Key Queries)
+
+The following queries highlight key steps used to analyze profitability and category performance.
+
+### Profit by Category
+
+```sql
+SELECT 
+    category, 
+    SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY category
+ORDER BY total_profit DESC;
+```
+
+### Profit Margin by Category
+
+```sql
+SELECT 
+    category, 
+    SUM(profit) / SUM(sales) AS profit_margin
+FROM superstore_sales
+GROUP BY category;
+```
 
 ---
 

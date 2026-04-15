@@ -126,7 +126,7 @@ Despite contributing over 32% of total sales, Furniture has a very low profit ma
 ---
 
 ## 📊 Tableau Dashboard
-[View Interactive Dashboard[(https://public.tableau.com/views/RetailProfitabilityDiscountAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard](https://public.tableau.com/views/RetailProfitabilityDiscountAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![](Dashboard.png)
 
@@ -134,11 +134,10 @@ Despite contributing over 32% of total sales, Furniture has a very low profit ma
 
 This dashboard provides an interactive view of retail performance, allowing users to explore how sales, profit, and discount levels vary across categories, regions, and customer segments. It highlights key loss-making areas and the impact of discounting on profitability.
 
-
 - Profit by sub-category  
 - Sales by category  
 - Discount vs profit patterns  
-- Regional and segment performance  
+- Regional and segment performance 
 
 ---
 

@@ -103,6 +103,8 @@ The analysis focused on answering key business questions through SQL queries suc
 
 - **Profitability threshold:** Most products remain profitable within a 0%–20% discount range.
 
+- **Regional variation in discount impact:** The East region shows higher discount levels and weaker profitability compared to the West, indicating inconsistent pricing strategies across regions.
+
 ### Category Profitability Insight
 
 Despite contributing over 32% of total sales, Furniture has a very low profit margin of only 2.5%, suggesting pricing inefficiencies or high costs. In contrast, Technology combines the highest sales share (36%) with strong profit margins (17%), making it the most valuable category for growth. Office Supplies shows stable and balanced performance across both sales and profitability.
@@ -118,6 +120,8 @@ Despite contributing over 32% of total sales, Furniture has a very low profit ma
 - **Focus on high-profit items:** Increase promotion and sales efforts for Copiers, Phones, and Accessories to maximize returns.
 
 - **Use data-driven pricing:** Apply discounts strategically based on product-level profitability and margin performance.
+
+- **Standardize discount strategy:** Align discount practices in underperforming regions (e.g., East) with more stable regions like the West to improve profitability.
   
 ---
 

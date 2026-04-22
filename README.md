@@ -14,7 +14,7 @@
 - [Tableau Dashboard](#tableau-dashboard)
 - [Files Included](#files-included)
 - [Conclusion](#conclusion)
-- [Author](#author)
+
 
 
 ---
@@ -164,7 +164,4 @@ This dashboard provides an interactive view of retail performance, allowing user
 ## 🏁 Conclusion
 This project demonstrates how SQL can be used to clean data, analyze business performance, and generate actionable insights. The analysis revealed that high sales do not always lead to profitability, especially when discounting is not controlled. By identifying loss-making products and discount-sensitive categories, this project provides valuable recommendations for improving business performance.
 
----
 
-## 👤 Author
-Alaa Razaq
